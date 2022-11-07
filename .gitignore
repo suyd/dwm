@@ -5,3 +5,4 @@ util.o
 dwm
 config.def.h.orig
 dwm.c.orig
+p1*
